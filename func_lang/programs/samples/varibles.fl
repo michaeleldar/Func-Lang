@@ -1,0 +1,2 @@
+declare("text", "This is text")
+write_var("text")

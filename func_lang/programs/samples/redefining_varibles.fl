@@ -1,0 +1,4 @@
+declare("aVarible", "First defenition of varible")
+write_var("aVarible")
+declare("aVarible", "Second defenition of varible")
+write_var("aVarible")
